@@ -1,5 +1,4 @@
 paginate: 1
-markdown: rdiscount
 highlighter: pygments
 permalink: /blog/:title
 rdiscount:
