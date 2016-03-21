@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User Lifecycle Analytics Framework
+title: Framework
 category: data
 tags:
   - data
