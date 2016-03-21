@@ -18,9 +18,9 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://al3xandr3.github.io{{ post.url }}"/>
+   <link href="http://yvonnengnyc.github.io{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://al3xandr3.github.com{{ post.id }}</id>
+   <id>http://yvonnenynyc.github.com{{ post.id }}</id>
    {% for cat in post.categories %}<category term="{{cat}}" label="{{cat}}" />
    {% endfor %}
    <content type="html">{{ post.content | xml_escape }}</content>
