@@ -3,7 +3,6 @@ layout: post
 title: Yoga Mind, Body & Spirit: A Return to Wholeness
 category: data
 tags:
-  - 
 intro: "Reading note of book < Yoga Mind, Body & Spirit: A Return to Wholeness > "
 ---
 
