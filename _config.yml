@@ -1,5 +1,5 @@
 paginate: 1
-highlighter: pygments
+highlighter: rouge
 permalink: /blog/:title
 rdiscount:
   extensions: [smart]
