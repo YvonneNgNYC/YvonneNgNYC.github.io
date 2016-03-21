@@ -4,6 +4,6 @@ highlighter: pygments
 permalink: /blog/:title
 rdiscount:
   extensions: [smart]
-name: James Moss
-description: The personal blog of a developer and hacker from Brighton, England.
-url: http://moss.io/
+name: Evonna Wu
+description: The personal blog of a data scientist/ yogi , NYC
+url: http://yvonnengnyc.github.io/
