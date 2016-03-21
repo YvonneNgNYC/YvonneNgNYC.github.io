@@ -1,0 +1,9 @@
+paginate: 1
+markdown: rdiscount
+highlighter: pygments
+permalink: /blog/:title
+rdiscount:
+  extensions: [smart]
+name: James Moss
+description: The personal blog of a developer and hacker from Brighton, England.
+url: http://moss.io/
