@@ -6,10 +6,9 @@ production_url: http://al3xandr3.github.io
 pygments: false
 markdown: kramdown
 author :
-  name : Alexandre Matos Martins
+  name : Evonna Wu
   github : al3xandr3
   twitter : al3xandr3
-  email: al3xandr3@gmail.com
   linkedin: al3xandr3
-disqus_shortname: al3xandr3
+disqus_shortname: evonnawu
 analytics: UA-39542235-1
