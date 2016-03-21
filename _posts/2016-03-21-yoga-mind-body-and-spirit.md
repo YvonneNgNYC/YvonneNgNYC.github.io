@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Yoga Mind, Body & Spirit: A Return to Wholeness
-category: Yoga
+category: data
 tags:
-  - yoga
+  - 
 intro: "Reading note of book < Yoga Mind, Body & Spirit: A Return to Wholeness > "
 ---
 
-## ------------------------
+
 
 This book introduce Yoga from three part. Part I is groundwork, which introduce the Yogis philosophy and ethics.
 Part II is about different postures and Part III is about how to practice.
