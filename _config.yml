@@ -2,7 +2,7 @@ permalink: /:title.html
 title: Evonna Wu
 description: "Evonna Wu's Blog"
 keywords: programming, data, machine learning, alexandre martins, al3xandr3
-production_url: http://yvoonenynyc.github.io
+production_url: http://yvonnenynyc.github.io
 pygments: false
 markdown: kramdown
 author :
