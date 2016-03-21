@@ -20,7 +20,7 @@ layout: nil
    <title>{{ post.title }}</title>
    <link href="http://yvonnengnyc.github.io{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://yvonnengnyc.github.com{{ post.id }}</id>
+   <id>https://github.com/YvonneNgNYC{{ post.id }}</id>
    {% for cat in post.categories %}<category term="{{cat}}" label="{{cat}}" />
    {% endfor %}
    <content type="html">{{ post.content | xml_escape }}</content>
