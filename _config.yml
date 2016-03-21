@@ -7,8 +7,8 @@ pygments: false
 markdown: kramdown
 author :
   name : Evonna Wu
-  github : al3xandr3
+  github : -
   twitter : al3xandr3
-  linkedin: al3xandr3
+  linkedin: Cong Wu
 disqus_shortname: evonnawu
 analytics: UA-39542235-1
