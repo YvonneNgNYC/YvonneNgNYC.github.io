@@ -11,16 +11,16 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://al3xandr3.github.com/tags/r.html</id>
  <author>
-   <name>al3xandr3</name>
-   <email>al3xandr3@gmail.com</email>
+   <name>YvonneNy</name>
+   <email>suzzanengnyc@gmail.com</email>
  </author>
 
  {% for post in site.categories.R %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://al3xandr3.github.com{{ post.url }}"/>
+   <link href="http://yvonnengnyc.github.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://al3xandr3.github.com{{ post.id }}</id>
+   <id>http://yvonnengnyc.github.com{{ post.id }}</id>
    {% for cat in post.categories %}  
    <category term="{{cat}}" label="{{cat}}" />
    {% endfor %}
