@@ -2,10 +2,6 @@
 layout: post
 title: Google Ranking Explained
 published: true
-meta: 
-  dsq_thread_id: "410761356"
-  _edit_last: "1"
-  _wp_old_slug: google-ranking-explained-kinda
 tags: 
 - google
 - News
