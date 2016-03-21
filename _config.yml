@@ -1,14 +1,22 @@
 permalink: /:title.html
 title: Evonna Wu
 description: "Evonna Wu's Blog"
-keywords: programming, data, machine learning, alexandre martins, al3xandr3
+keywords: programming, yoga, data, machine learning, alexandre martins, al3xandr3
 production_url: http://yvonnenynyc.github.io
 pygments: false
 markdown: kramdown
 author :
   name : Evonna Wu
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  github : yvonnenynyc
+  twitter : cwu22
+=======
+>>>>>>> Stashed changes
   github : yvonnengnyc
   twitter : al3xandr3
+>>>>>>> origin/master
   linkedin: Cong Wu
 disqus_shortname: evonnawu
 analytics: UA-39542235-1
