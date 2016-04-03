@@ -3,7 +3,7 @@ title: Prasarita Padottanasana
 layout: post
 ---
 
-##Prasarita Padottanasana, Intense Spread leg stretch. 
+## Prasarita Padottanasana, Intense Spread leg stretch. 
 
 If you have high blood pressure or severe back problem, anytime you feel uncomfortable, ease yourself into a child pose.
 Start with a standing position. Take a deep breath and jump to spread you feet apart.
